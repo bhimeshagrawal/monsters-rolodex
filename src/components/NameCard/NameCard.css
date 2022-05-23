@@ -1,0 +1,5 @@
+.name-card {
+  border-radius: 50px;
+  background: #f4dceb;
+  box-shadow: inset 20px 20px 60px #cfbbc8, inset -20px -20px 60px #fffdff;
+}
